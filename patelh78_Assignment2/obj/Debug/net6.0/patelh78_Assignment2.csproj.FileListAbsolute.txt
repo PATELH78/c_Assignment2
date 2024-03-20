@@ -1,0 +1,15 @@
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\bin\Debug\net6.0\patelh78_Assignment2.exe
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\bin\Debug\net6.0\patelh78_Assignment2.deps.json
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\bin\Debug\net6.0\patelh78_Assignment2.runtimeconfig.json
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\bin\Debug\net6.0\patelh78_Assignment2.dll
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\bin\Debug\net6.0\ref\patelh78_Assignment2.dll
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\bin\Debug\net6.0\patelh78_Assignment2.pdb
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\obj\Debug\net6.0\patelh78_Assignment2.csproj.AssemblyReference.cache
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\obj\Debug\net6.0\patelh78_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\obj\Debug\net6.0\patelh78_Assignment2.AssemblyInfoInputs.cache
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\obj\Debug\net6.0\patelh78_Assignment2.AssemblyInfo.cs
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\obj\Debug\net6.0\patelh78_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\obj\Debug\net6.0\patelh78_Assignment2.dll
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\obj\Debug\net6.0\ref\patelh78_Assignment2.dll
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\obj\Debug\net6.0\patelh78_Assignment2.pdb
+C:\Users\PATELH78\source\repos\patelh78_Assignment2\patelh78_Assignment2\obj\Debug\net6.0\patelh78_Assignment2.genruntimeconfig.cache
